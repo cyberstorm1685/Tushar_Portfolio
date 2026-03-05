@@ -345,7 +345,7 @@ export default function App() {
               description="Built a cross-platform astrology app with live chat/call features and ML-driven personalized predictions. Integrated Firebase and secure payment gateways."
               tags={["Flutter", "Firebase", "ML Integration"]}
               link="https://play.google.com/store/apps/details?id=com.astrogurukripa.customer"
-              image="https://picsum.photos/seed/astro/800/450"
+              image="https://play-lh.googleusercontent.com/lqwU_dRCcgyTz2jcw3V5cS7Ezc-PO0FnCfoQl3SeYq72KC2WqLy_CENsX--Uf9wqmmU=w480-h960-rw"
             />
             <ProjectCard 
               title="FoodZippy"
