@@ -352,7 +352,7 @@ export default function App() {
               description="Developed a full-stack food delivery application with real-time restaurant listings, order tracking, and secure payment integration."
               tags={["Flutter", "Firebase", "Node.js"]}
               link="https://play.google.com/store/apps/details?id=com.foodzippy.app"
-              image="https://picsum.photos/seed/food/800/450"
+              image="https://play-lh.googleusercontent.com/fYExhbftgotjME6ZlCV-xl03QQhrmAfr_lFdvFirpVLlXoYE_X3-mWIyU4TEc3rSLv9aCMmvP6p9qpRM5k3t=w480-h960-rw"
             />
           </div>
           <div className="mt-12 text-center">
