@@ -285,7 +285,7 @@ export default function App() {
               <div className="absolute inset-0 bg-blue-500/20 blur-3xl rounded-full" />
               <div className="relative h-full w-full rounded-2xl overflow-hidden border border-white/10">
                 <img 
-                  src="https://picsum.photos/seed/tushar/800/800" 
+                  src="/tushar.jpeg"
                   alt="Tushar Sethi" 
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   referrerPolicy="no-referrer"
